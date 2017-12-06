@@ -1,0 +1,6 @@
+F:\Users\Shadowhand\Documents\Visual Studio 2012\Projects\LwP\Colors\bin\x86\Debug\Colors.dll
+F:\Users\Shadowhand\Documents\Visual Studio 2012\Projects\LwP\Colors\bin\x86\Debug\Colors.pdb
+F:\Users\Shadowhand\Documents\Visual Studio 2012\Projects\LwP\Colors\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Users\Shadowhand\Documents\Visual Studio 2012\Projects\LwP\Colors\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Users\Shadowhand\Documents\Visual Studio 2012\Projects\LwP\Colors\obj\x86\Debug\Colors.dll
+F:\Users\Shadowhand\Documents\Visual Studio 2012\Projects\LwP\Colors\obj\x86\Debug\Colors.pdb

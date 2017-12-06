@@ -1,0 +1,6 @@
+C:\Users\Shadowhand\Desktop\LwP\Letters\bin\x86\Debug\Letters.dll
+C:\Users\Shadowhand\Desktop\LwP\Letters\bin\x86\Debug\Letters.pdb
+C:\Users\Shadowhand\Desktop\LwP\Letters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shadowhand\Desktop\LwP\Letters\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Shadowhand\Desktop\LwP\Letters\obj\x86\Debug\Letters.dll
+C:\Users\Shadowhand\Desktop\LwP\Letters\obj\x86\Debug\Letters.pdb

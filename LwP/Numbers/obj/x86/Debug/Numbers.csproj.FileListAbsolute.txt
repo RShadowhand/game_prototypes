@@ -1,0 +1,6 @@
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Numbers\bin\x86\Debug\Numbers.dll
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Numbers\bin\x86\Debug\Numbers.pdb
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Numbers\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Numbers\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Numbers\obj\x86\Debug\Numbers.dll
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Numbers\obj\x86\Debug\Numbers.pdb

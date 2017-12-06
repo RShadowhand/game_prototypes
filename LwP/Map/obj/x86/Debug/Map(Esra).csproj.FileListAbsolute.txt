@@ -1,0 +1,6 @@
+C:\Users\Shadowhand\Desktop\LwP\Map\bin\x86\Debug\Map.dll
+C:\Users\Shadowhand\Desktop\LwP\Map\bin\x86\Debug\Map.pdb
+C:\Users\Shadowhand\Desktop\LwP\Map\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shadowhand\Desktop\LwP\Map\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Shadowhand\Desktop\LwP\Map\obj\x86\Debug\Map.dll
+C:\Users\Shadowhand\Desktop\LwP\Map\obj\x86\Debug\Map.pdb

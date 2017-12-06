@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraTest", "CameraTest\CameraTest.csproj", "{CE3A3FCB-F509-47A4-9A49-D96EF5F52A64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE3A3FCB-F509-47A4-9A49-D96EF5F52A64}.Debug|x86.ActiveCfg = Debug|x86
+		{CE3A3FCB-F509-47A4-9A49-D96EF5F52A64}.Debug|x86.Build.0 = Debug|x86
+		{CE3A3FCB-F509-47A4-9A49-D96EF5F52A64}.Release|x86.ActiveCfg = Release|x86
+		{CE3A3FCB-F509-47A4-9A49-D96EF5F52A64}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

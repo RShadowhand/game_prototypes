@@ -1,0 +1,13 @@
+C:\Users\Burak\documents\visual studio 2012\Projects\GlitchTest\GlitchTest\bin\WindowsGL\Debug\Content\dama2.png
+C:\Users\Burak\documents\visual studio 2012\Projects\GlitchTest\GlitchTest\bin\WindowsGL\Debug\Content\dama.png
+C:\Users\Burak\documents\visual studio 2012\Projects\GlitchTest\GlitchTest\bin\WindowsGL\Debug\SDL.dll
+C:\Users\Burak\documents\visual studio 2012\Projects\GlitchTest\GlitchTest\bin\WindowsGL\Debug\GlitchTest.exe
+C:\Users\Burak\documents\visual studio 2012\Projects\GlitchTest\GlitchTest\bin\WindowsGL\Debug\GlitchTest.pdb
+C:\Users\Burak\documents\visual studio 2012\Projects\GlitchTest\GlitchTest\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Burak\documents\visual studio 2012\Projects\GlitchTest\GlitchTest\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Burak\documents\visual studio 2012\Projects\GlitchTest\GlitchTest\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Burak\documents\visual studio 2012\Projects\GlitchTest\GlitchTest\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Burak\documents\visual studio 2012\Projects\GlitchTest\GlitchTest\obj\x86\Debug\GlitchTest.csprojResolveAssemblyReference.cache
+C:\Users\Burak\documents\visual studio 2012\Projects\GlitchTest\GlitchTest\obj\x86\Debug\GlitchTest.exe
+C:\Users\Burak\documents\visual studio 2012\Projects\GlitchTest\GlitchTest\obj\x86\Debug\GlitchTest.pdb
+C:\Users\Burak\documents\visual studio 2012\Projects\GlitchTest\GlitchTest\bin\WindowsGL\Debug\Content\Font.xnb

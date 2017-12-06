@@ -1,0 +1,22 @@
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Colors\bin\x86\Debug\Colors.dll
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Colors\bin\x86\Debug\Colors.pdb
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Colors\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Colors\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Colors\obj\x86\Debug\Colors.dll
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Colors\obj\x86\Debug\Colors.pdb
+C:\Users\Shadowhand\Desktop\LwP\Colors\bin\x86\Debug\Colors.dll
+C:\Users\Shadowhand\Desktop\LwP\Colors\bin\x86\Debug\Colors.pdb
+C:\Users\Shadowhand\Desktop\LwP\Colors\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shadowhand\Desktop\LwP\Colors\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Shadowhand\Desktop\LwP\Colors\obj\x86\Debug\Colors.dll
+C:\Users\Shadowhand\Desktop\LwP\Colors\obj\x86\Debug\Colors.pdb
+C:\Users\Shadowhand\Desktop\LwP\Colors\bin\x86\Debug\Helper.dll
+C:\Users\Shadowhand\Desktop\LwP\Colors\bin\x86\Debug\Helper.pdb
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Colors\bin\x86\Debug\Colors.dll
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Colors\bin\x86\Debug\Colors.pdb
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Colors\bin\x86\Debug\Helper.dll
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Colors\bin\x86\Debug\Helper.pdb
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Colors\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Colors\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Colors\obj\x86\Debug\Colors.dll
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Colors\obj\x86\Debug\Colors.pdb

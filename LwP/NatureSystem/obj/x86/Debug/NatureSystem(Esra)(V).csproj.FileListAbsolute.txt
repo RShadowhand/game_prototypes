@@ -1,0 +1,8 @@
+C:\Users\ShadowSeven\Desktop\LwP\NatureSystem\bin\x86\Debug\NatureSystem.dll
+C:\Users\ShadowSeven\Desktop\LwP\NatureSystem\bin\x86\Debug\NatureSystem.pdb
+C:\Users\ShadowSeven\Desktop\LwP\NatureSystem\bin\x86\Debug\Helper.dll
+C:\Users\ShadowSeven\Desktop\LwP\NatureSystem\bin\x86\Debug\Helper.pdb
+C:\Users\ShadowSeven\Desktop\LwP\NatureSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ShadowSeven\Desktop\LwP\NatureSystem\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ShadowSeven\Desktop\LwP\NatureSystem\obj\x86\Debug\NatureSystem.dll
+C:\Users\ShadowSeven\Desktop\LwP\NatureSystem\obj\x86\Debug\NatureSystem.pdb

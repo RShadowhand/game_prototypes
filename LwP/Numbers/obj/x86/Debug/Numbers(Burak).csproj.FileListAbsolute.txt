@@ -1,0 +1,8 @@
+C:\Users\Shadowhand\Desktop\LwP\Numbers\bin\x86\Debug\Numbers.dll
+C:\Users\Shadowhand\Desktop\LwP\Numbers\bin\x86\Debug\Numbers.pdb
+C:\Users\Shadowhand\Desktop\LwP\Numbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shadowhand\Desktop\LwP\Numbers\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Shadowhand\Desktop\LwP\Numbers\obj\x86\Debug\Numbers.dll
+C:\Users\Shadowhand\Desktop\LwP\Numbers\obj\x86\Debug\Numbers.pdb
+C:\Users\Shadowhand\Desktop\LwP\Numbers\bin\x86\Debug\Helper.dll
+C:\Users\Shadowhand\Desktop\LwP\Numbers\bin\x86\Debug\Helper.pdb

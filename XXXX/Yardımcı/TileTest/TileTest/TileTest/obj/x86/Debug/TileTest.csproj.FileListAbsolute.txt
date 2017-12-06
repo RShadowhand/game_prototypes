@@ -1,0 +1,36 @@
+c:\users\shadowhand\documents\visual studio 2010\Projects\TileTest\TileTest\TileTest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\shadowhand\documents\visual studio 2010\Projects\TileTest\TileTest\TileTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\shadowhand\documents\visual studio 2010\Projects\TileTest\TileTest\TileTest\bin\x86\Debug\TileTest.exe
+c:\users\shadowhand\documents\visual studio 2010\Projects\TileTest\TileTest\TileTest\bin\x86\Debug\TileTest.pdb
+c:\users\shadowhand\documents\visual studio 2010\Projects\TileTest\TileTest\TileTest\obj\x86\Debug\TileTest.exe
+c:\users\shadowhand\documents\visual studio 2010\Projects\TileTest\TileTest\TileTest\obj\x86\Debug\TileTest.pdb
+C:\Users\Shadowhand\documents\visual studio 2010\Projects\TileTest\TileTest\TileTest\bin\x86\Debug\Content\zero.xnb
+C:\Users\Shadowhand\documents\visual studio 2010\Projects\TileTest\TileTest\TileTest\bin\x86\Debug\Content\one.xnb
+C:\Users\Shadowhand\documents\visual studio 2010\Projects\TileTest\TileTest\TileTest\bin\x86\Debug\Content\two.xnb
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\TileTest\TileTest\TileTest\bin\x86\Debug\Content\zeroO.xnb
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\TileTest\TileTest\TileTest\bin\x86\Debug\Content\oneO.xnb
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\TileTest\TileTest\TileTest\bin\x86\Debug\Content\twoO.xnb
+F:\Users\Shadowhand\Documents\Visual Studio 2012\Projects\TileTest\TileTest\TileTest\bin\x86\Debug\Content\zeroO.xnb
+F:\Users\Shadowhand\Documents\Visual Studio 2012\Projects\TileTest\TileTest\TileTest\bin\x86\Debug\Content\oneO.xnb
+F:\Users\Shadowhand\Documents\Visual Studio 2012\Projects\TileTest\TileTest\TileTest\bin\x86\Debug\Content\twoO.xnb
+F:\Users\Shadowhand\Documents\Visual Studio 2012\Projects\TileTest\TileTest\TileTest\bin\x86\Debug\Content\one.xnb
+F:\Users\Shadowhand\Documents\Visual Studio 2012\Projects\TileTest\TileTest\TileTest\bin\x86\Debug\Content\two.xnb
+F:\Users\Shadowhand\Documents\Visual Studio 2012\Projects\TileTest\TileTest\TileTest\bin\x86\Debug\Content\zero.xnb
+F:\Users\Shadowhand\Documents\Visual Studio 2012\Projects\TileTest\TileTest\TileTest\bin\x86\Debug\TileTest.exe
+F:\Users\Shadowhand\Documents\Visual Studio 2012\Projects\TileTest\TileTest\TileTest\bin\x86\Debug\TileTest.pdb
+F:\Users\Shadowhand\Documents\Visual Studio 2012\Projects\TileTest\TileTest\TileTest\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Users\Shadowhand\Documents\Visual Studio 2012\Projects\TileTest\TileTest\TileTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Users\Shadowhand\Documents\Visual Studio 2012\Projects\TileTest\TileTest\TileTest\obj\x86\Debug\TileTest.exe
+F:\Users\Shadowhand\Documents\Visual Studio 2012\Projects\TileTest\TileTest\TileTest\obj\x86\Debug\TileTest.pdb
+Z:\Dropbox\XXXX\Yardımcı\TileTest\TileTest\TileTest\bin\x86\Debug\Content\zeroO.xnb
+Z:\Dropbox\XXXX\Yardımcı\TileTest\TileTest\TileTest\bin\x86\Debug\Content\oneO.xnb
+Z:\Dropbox\XXXX\Yardımcı\TileTest\TileTest\TileTest\bin\x86\Debug\Content\twoO.xnb
+Z:\Dropbox\XXXX\Yardımcı\TileTest\TileTest\TileTest\bin\x86\Debug\Content\one.xnb
+Z:\Dropbox\XXXX\Yardımcı\TileTest\TileTest\TileTest\bin\x86\Debug\Content\two.xnb
+Z:\Dropbox\XXXX\Yardımcı\TileTest\TileTest\TileTest\bin\x86\Debug\Content\zero.xnb
+Z:\Dropbox\XXXX\Yardımcı\TileTest\TileTest\TileTest\bin\x86\Debug\TileTest.exe
+Z:\Dropbox\XXXX\Yardımcı\TileTest\TileTest\TileTest\bin\x86\Debug\TileTest.pdb
+Z:\Dropbox\XXXX\Yardımcı\TileTest\TileTest\TileTest\obj\x86\Debug\TileTest.csprojResolveAssemblyReference.cache
+Z:\Dropbox\XXXX\Yardımcı\TileTest\TileTest\TileTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Dropbox\XXXX\Yardımcı\TileTest\TileTest\TileTest\obj\x86\Debug\TileTest.exe
+Z:\Dropbox\XXXX\Yardımcı\TileTest\TileTest\TileTest\obj\x86\Debug\TileTest.pdb

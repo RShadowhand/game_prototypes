@@ -1,0 +1,6 @@
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Map\bin\x86\Debug\Map.dll
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Map\bin\x86\Debug\Map.pdb
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Map\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Map\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Map\obj\x86\Debug\Map.dll
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Map\obj\x86\Debug\Map.pdb

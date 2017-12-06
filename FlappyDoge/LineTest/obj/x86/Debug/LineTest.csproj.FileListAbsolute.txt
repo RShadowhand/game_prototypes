@@ -1,0 +1,91 @@
+d:\users\shadowseven\documents\visual studio 2012\Projects\LineTest\LineTest\bin\WindowsGL\Debug\SDL.dll
+d:\users\shadowseven\documents\visual studio 2012\Projects\LineTest\LineTest\bin\WindowsGL\Debug\LineTest.exe
+d:\users\shadowseven\documents\visual studio 2012\Projects\LineTest\LineTest\bin\WindowsGL\Debug\LineTest.pdb
+d:\users\shadowseven\documents\visual studio 2012\Projects\LineTest\LineTest\bin\WindowsGL\Debug\Lidgren.Network.dll
+d:\users\shadowseven\documents\visual studio 2012\Projects\LineTest\LineTest\bin\WindowsGL\Debug\MonoGame.Framework.dll
+d:\users\shadowseven\documents\visual studio 2012\Projects\LineTest\LineTest\bin\WindowsGL\Debug\OpenTK.dll
+d:\users\shadowseven\documents\visual studio 2012\Projects\LineTest\LineTest\bin\WindowsGL\Debug\Tao.Sdl.dll
+d:\users\shadowseven\documents\visual studio 2012\Projects\LineTest\LineTest\obj\x86\Debug\LineTest.csprojResolveAssemblyReference.cache
+d:\users\shadowseven\documents\visual studio 2012\Projects\LineTest\LineTest\obj\x86\Debug\LineTest.exe
+d:\users\shadowseven\documents\visual studio 2012\Projects\LineTest\LineTest\obj\x86\Debug\LineTest.pdb
+d:\users\shadowseven\documents\visual studio 2012\Projects\LineTest\LineTest\bin\WindowsGL\Debug\Content\Font.xnb
+d:\Users\shadowseven\documents\visual studio 2012\Projects\LineTest\LineTest\bin\WindowsGL\Debug\Content\background1.png
+d:\Users\shadowseven\documents\visual studio 2012\Projects\LineTest\LineTest\bin\WindowsGL\Debug\Content\background2-0.png
+d:\Users\shadowseven\documents\visual studio 2012\Projects\LineTest\LineTest\bin\WindowsGL\Debug\Content\background2-1.png
+d:\Users\shadowseven\documents\visual studio 2012\Projects\LineTest\LineTest\bin\WindowsGL\Debug\Content\background2-2.png
+d:\Users\shadowseven\documents\visual studio 2012\Projects\LineTest\LineTest\bin\WindowsGL\Debug\Content\player.png
+D:\Users\ShadowSeven\Dropbox\XXXX\LineTest\LineTest\obj\x86\Debug\LineTest.exe
+D:\Users\ShadowSeven\Dropbox\XXXX\LineTest\LineTest\obj\x86\Debug\LineTest.pdb
+D:\Users\ShadowSeven\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\SDL.dll
+D:\Users\ShadowSeven\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Content\background1.png
+D:\Users\ShadowSeven\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Content\background2-0.png
+D:\Users\ShadowSeven\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Content\background2-1.png
+D:\Users\ShadowSeven\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Content\background2-2.png
+D:\Users\ShadowSeven\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Content\player.png
+D:\Users\ShadowSeven\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Content\Font.xnb
+D:\Users\ShadowSeven\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\LineTest.exe
+D:\Users\ShadowSeven\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\LineTest.pdb
+D:\Users\ShadowSeven\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Lidgren.Network.dll
+D:\Users\ShadowSeven\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\Users\ShadowSeven\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\OpenTK.dll
+D:\Users\ShadowSeven\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Tao.Sdl.dll
+D:\Users\ShadowSeven\Dropbox\XXXX\LineTest\LineTest\obj\x86\Debug\LineTest.csprojResolveAssemblyReference.cache
+Z:\Dropbox\XXXX\LineTest\LineTest\obj\x86\Debug\LineTest.exe
+Z:\Dropbox\XXXX\LineTest\LineTest\obj\x86\Debug\LineTest.pdb
+Z:\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\SDL.dll
+Z:\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Content\background1.png
+Z:\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Content\background2-0.png
+Z:\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Content\background2-1.png
+Z:\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Content\background2-2.png
+Z:\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Content\player.png
+Z:\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Content\Font.xnb
+Z:\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\LineTest.exe
+Z:\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\LineTest.pdb
+Z:\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Lidgren.Network.dll
+Z:\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\MonoGame.Framework.dll
+Z:\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\OpenTK.dll
+Z:\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Tao.Sdl.dll
+Z:\Dropbox\XXXX\LineTest\LineTest\obj\x86\Debug\LineTest.csprojResolveAssemblyReference.cache
+Z:\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Content\dama.png
+Z:\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Content\eksoz-a.png
+Z:\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Content\eksoz-b.png
+Z:\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Content\mermi.png
+Z:\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Content\minyon.png
+Z:\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Content\minyon_eksoz-a.png
+Z:\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Content\minyon_eksoz-b.png
+Z:\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Content\theme.wav
+Z:\Dropbox\XXXX\LineTest\LineTest\bin\WindowsGL\Debug\Content\explosion.png
+C:\Users\Burak\Desktop\LineTest\LineTest\obj\x86\Debug\LineTest.exe
+C:\Users\Burak\Desktop\LineTest\LineTest\obj\x86\Debug\LineTest.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\LineTest\LineTest\bin\WindowsGL\Debug\SDL.dll
+C:\Users\Burak\Desktop\LineTest\LineTest\bin\WindowsGL\Debug\Content\player.png
+C:\Users\Burak\Desktop\LineTest\LineTest\bin\WindowsGL\Debug\Content\Font.xnb
+C:\Users\Burak\Desktop\LineTest\LineTest\bin\WindowsGL\Debug\LineTest.exe
+C:\Users\Burak\Desktop\LineTest\LineTest\bin\WindowsGL\Debug\LineTest.pdb
+C:\Users\Burak\Desktop\LineTest\LineTest\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Burak\Desktop\LineTest\LineTest\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Burak\Desktop\LineTest\LineTest\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Burak\Desktop\LineTest\LineTest\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Burak\Desktop\LineTest\LineTest\obj\x86\Debug\LineTest.pdb
+C:\Users\Burak\Desktop\LineTest\LineTest\bin\WindowsGL\Debug\Content\bg.png
+C:\Users\Burak\Desktop\LineTest\LineTest\bin\WindowsGL\Debug\Content\ground.png
+C:\Users\Burak\Desktop\LineTest\LineTest\bin\WindowsGL\Debug\Content\Pipedown.png
+C:\Users\Burak\Desktop\LineTest\LineTest\bin\WindowsGL\Debug\Content\Pipeup.png
+C:\Users\Burak\Desktop\Folders\LineTest\LineTest\obj\x86\Debug\LineTest.exe
+C:\Users\Burak\Desktop\Folders\LineTest\LineTest\obj\x86\Debug\LineTest.pdb
+C:\Users\Burak\Desktop\Folders\LineTest\LineTest\bin\WindowsGL\Debug\SDL.dll
+C:\Users\Burak\Desktop\Folders\LineTest\LineTest\bin\WindowsGL\Debug\Content\bg.png
+C:\Users\Burak\Desktop\Folders\LineTest\LineTest\bin\WindowsGL\Debug\Content\ground.png
+C:\Users\Burak\Desktop\Folders\LineTest\LineTest\bin\WindowsGL\Debug\Content\Pipedown.png
+C:\Users\Burak\Desktop\Folders\LineTest\LineTest\bin\WindowsGL\Debug\Content\Pipeup.png
+C:\Users\Burak\Desktop\Folders\LineTest\LineTest\bin\WindowsGL\Debug\Content\player.png
+C:\Users\Burak\Desktop\Folders\LineTest\LineTest\bin\WindowsGL\Debug\Content\Font.xnb
+C:\Users\Burak\Desktop\Folders\LineTest\LineTest\bin\WindowsGL\Debug\LineTest.exe
+C:\Users\Burak\Desktop\Folders\LineTest\LineTest\bin\WindowsGL\Debug\LineTest.pdb
+C:\Users\Burak\Desktop\Folders\LineTest\LineTest\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Burak\Desktop\Folders\LineTest\LineTest\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Burak\Desktop\Folders\LineTest\LineTest\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Burak\Desktop\Folders\LineTest\LineTest\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Burak\Desktop\Folders\LineTest\LineTest\obj\x86\Debug\LineTest.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\FlappyDoge\LineTest\obj\x86\Debug\LineTest.exe
+C:\Users\Burak\Desktop\FlappyDoge\LineTest\obj\x86\Debug\LineTest.pdb

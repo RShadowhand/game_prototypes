@@ -1,0 +1,12 @@
+d:\users\shadowseven\documents\visual studio 2012\Projects\CameraTest\CameraTest\obj\x86\Debug\CameraTest.csprojResolveAssemblyReference.cache
+d:\users\shadowseven\documents\visual studio 2012\Projects\CameraTest\CameraTest\bin\WindowsGL\Debug\SDL.dll
+d:\users\shadowseven\documents\visual studio 2012\Projects\CameraTest\CameraTest\bin\WindowsGL\Debug\CameraTest.exe
+d:\users\shadowseven\documents\visual studio 2012\Projects\CameraTest\CameraTest\bin\WindowsGL\Debug\CameraTest.pdb
+d:\users\shadowseven\documents\visual studio 2012\Projects\CameraTest\CameraTest\bin\WindowsGL\Debug\Lidgren.Network.dll
+d:\users\shadowseven\documents\visual studio 2012\Projects\CameraTest\CameraTest\bin\WindowsGL\Debug\MonoGame.Framework.dll
+d:\users\shadowseven\documents\visual studio 2012\Projects\CameraTest\CameraTest\bin\WindowsGL\Debug\OpenTK.dll
+d:\users\shadowseven\documents\visual studio 2012\Projects\CameraTest\CameraTest\bin\WindowsGL\Debug\Tao.Sdl.dll
+d:\users\shadowseven\documents\visual studio 2012\Projects\CameraTest\CameraTest\obj\x86\Debug\CameraTest.exe
+d:\users\shadowseven\documents\visual studio 2012\Projects\CameraTest\CameraTest\obj\x86\Debug\CameraTest.pdb
+d:\users\shadowseven\documents\visual studio 2012\Projects\CameraTest\CameraTest\bin\WindowsGL\Debug\Content\block.png
+d:\users\shadowseven\documents\visual studio 2012\Projects\CameraTest\CameraTest\bin\WindowsGL\Debug\Content\Font1.xnb

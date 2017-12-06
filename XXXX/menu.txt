@@ -1,0 +1,2 @@
+buton_start-a:426,429;
+ses_acik:49,534;

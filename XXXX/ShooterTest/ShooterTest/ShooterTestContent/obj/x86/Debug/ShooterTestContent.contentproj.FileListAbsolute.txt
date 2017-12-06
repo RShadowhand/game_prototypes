@@ -1,0 +1,4 @@
+c:\users\burak\documents\visual studio 2010\Projects\ShooterTest\ShooterTest\ShooterTestContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTestContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTestContent\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTestContent\obj\x86\Debug\ShooterTestContent.contentprojResolveAssemblyReference.cache

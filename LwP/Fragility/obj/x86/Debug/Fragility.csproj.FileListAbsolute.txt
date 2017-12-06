@@ -1,0 +1,6 @@
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Fragility\bin\x86\Debug\Fragility.dll
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Fragility\bin\x86\Debug\Fragility.pdb
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Fragility\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Fragility\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Fragility\obj\x86\Debug\Fragility.dll
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Fragility\obj\x86\Debug\Fragility.pdb

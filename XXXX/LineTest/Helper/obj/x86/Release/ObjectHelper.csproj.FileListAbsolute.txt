@@ -1,0 +1,5 @@
+Z:\Dropbox\XXXX\LineTest\Helper\bin\x86\Release\Helper.dll
+Z:\Dropbox\XXXX\LineTest\Helper\bin\x86\Release\Helper.pdb
+Z:\Dropbox\XXXX\LineTest\Helper\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Dropbox\XXXX\LineTest\Helper\obj\x86\Release\Helper.dll
+Z:\Dropbox\XXXX\LineTest\Helper\obj\x86\Release\Helper.pdb

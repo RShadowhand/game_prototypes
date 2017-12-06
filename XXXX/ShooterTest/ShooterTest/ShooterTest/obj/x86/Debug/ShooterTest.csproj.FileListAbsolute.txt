@@ -1,0 +1,97 @@
+c:\users\burak\documents\visual studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\burak\documents\visual studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\burak\documents\visual studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\ship.xnb
+c:\users\burak\documents\visual studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\ShooterTest.exe
+c:\users\burak\documents\visual studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\ShooterTest.pdb
+c:\users\burak\documents\visual studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\ShooterTest.exe
+c:\users\burak\documents\visual studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\ShooterTest.pdb
+c:\users\burak\documents\visual studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\Font.xnb
+c:\users\burak\documents\visual studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\ShooterTest.Form1.resources
+c:\users\burak\documents\visual studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\burak\documents\visual studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\burak\documents\visual studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\space.xnb
+c:\users\burak\documents\visual studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\stars.xnb
+c:\users\burak\documents\visual studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\bullet.xnb
+c:\users\burak\documents\visual studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\baddy.xnb
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\Font.xnb
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\space.xnb
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\stars.xnb
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\baddy.xnb
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\ship.xnb
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\fire1.xnb
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\fire2.xnb
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\fire3.xnb
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\fire1_.xnb
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\fire2_.xnb
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\fire3_.xnb
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\start.xnb
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\ShooterTest.exe
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\ShooterTest.pdb
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\ShooterTest.Form1.resources
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\ShooterTest.exe
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\ShooterTest.pdb
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\start1.xnb
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\back-background.xnb
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\fore-background.xnb
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Shadowhand\Documents\Visual Studio 2010\Projects\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\empty.xnb
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\Font.xnb
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\space.xnb
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\stars.xnb
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\bullet.xnb
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\baddy.xnb
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\ship.xnb
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\fire1.xnb
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\fire2.xnb
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\fire3.xnb
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\fire1_.xnb
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\fire2_.xnb
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\fire3_.xnb
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\start.xnb
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\start1.xnb
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\back-background.xnb
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\fore-background.xnb
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\explosion.xnb
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\empty.xnb
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\ShooterTest.exe
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\ShooterTest.pdb
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\ShooterTest.Form1.resources
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\ShooterTest.exe
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\ShooterTest.pdb
+F:\Users\Shadowhand\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\background.xnb
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\Font.xnb
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\space.xnb
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\stars.xnb
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\bullet.xnb
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\baddy.xnb
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\ship.xnb
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\fire1.xnb
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\fire2.xnb
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\fire3.xnb
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\fire1_.xnb
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\fire2_.xnb
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\fire3_.xnb
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\start.xnb
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\start1.xnb
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\back-background.xnb
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\fore-background.xnb
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\explosion.xnb
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\empty.xnb
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\Content\background.xnb
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\ShooterTest.exe
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\bin\x86\Debug\ShooterTest.pdb
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\ShooterTest.csprojResolveAssemblyReference.cache
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\ShooterTest.Form1.resources
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\ShooterTest.csproj.GenerateResource.Cache
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\ShooterTest.exe
+Z:\Dropbox\XXXX\ShooterTest\ShooterTest\ShooterTest\obj\x86\Debug\ShooterTest.pdb

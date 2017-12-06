@@ -1,0 +1,17 @@
+C:\Users\Burak\Desktop\FlappyDoge\LineTest\obj\x86\Release\LineTest.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\FlappyDoge\LineTest\bin\WindowsGL\Release\SDL.dll
+C:\Users\Burak\Desktop\FlappyDoge\LineTest\bin\WindowsGL\Release\Content\bg.png
+C:\Users\Burak\Desktop\FlappyDoge\LineTest\bin\WindowsGL\Release\Content\ground.png
+C:\Users\Burak\Desktop\FlappyDoge\LineTest\bin\WindowsGL\Release\Content\Pipedown.png
+C:\Users\Burak\Desktop\FlappyDoge\LineTest\bin\WindowsGL\Release\Content\Pipeup.png
+C:\Users\Burak\Desktop\FlappyDoge\LineTest\bin\WindowsGL\Release\Content\player.png
+C:\Users\Burak\Desktop\FlappyDoge\LineTest\bin\WindowsGL\Release\Content\Font.xnb
+C:\Users\Burak\Desktop\FlappyDoge\LineTest\bin\WindowsGL\Release\LineTest.exe
+C:\Users\Burak\Desktop\FlappyDoge\LineTest\bin\WindowsGL\Release\LineTest.pdb
+C:\Users\Burak\Desktop\FlappyDoge\LineTest\bin\WindowsGL\Release\Lidgren.Network.dll
+C:\Users\Burak\Desktop\FlappyDoge\LineTest\bin\WindowsGL\Release\MonoGame.Framework.dll
+C:\Users\Burak\Desktop\FlappyDoge\LineTest\bin\WindowsGL\Release\OpenTK.dll
+C:\Users\Burak\Desktop\FlappyDoge\LineTest\bin\WindowsGL\Release\Tao.Sdl.dll
+C:\Users\Burak\Desktop\FlappyDoge\LineTest\obj\x86\Release\LineTest.exe
+C:\Users\Burak\Desktop\FlappyDoge\LineTest\obj\x86\Release\LineTest.pdb
+C:\Users\Burak\Desktop\FlappyDoge\LineTest\bin\WindowsGL\Release\LineTest.exe.config

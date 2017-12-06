@@ -1,0 +1,6 @@
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Letters\bin\x86\Debug\Letters.dll
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Letters\bin\x86\Debug\Letters.pdb
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Letters\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Letters\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Letters\obj\x86\Debug\Letters.dll
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\Letters\obj\x86\Debug\Letters.pdb

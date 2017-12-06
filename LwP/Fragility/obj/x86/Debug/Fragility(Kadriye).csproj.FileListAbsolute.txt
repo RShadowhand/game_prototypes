@@ -1,0 +1,14 @@
+C:\Users\Shadowhand\Desktop\LwP\Fragility\bin\x86\Debug\Fragility.dll
+C:\Users\Shadowhand\Desktop\LwP\Fragility\bin\x86\Debug\Fragility.pdb
+C:\Users\Shadowhand\Desktop\LwP\Fragility\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shadowhand\Desktop\LwP\Fragility\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Shadowhand\Desktop\LwP\Fragility\obj\x86\Debug\Fragility.dll
+C:\Users\Shadowhand\Desktop\LwP\Fragility\obj\x86\Debug\Fragility.pdb
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Fragility\bin\x86\Debug\Fragility.dll
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Fragility\bin\x86\Debug\Fragility.pdb
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Fragility\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Fragility\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Fragility\obj\x86\Debug\Fragility.dll
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Fragility\obj\x86\Debug\Fragility.pdb
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Fragility\bin\x86\Debug\Helper.dll
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Fragility\bin\x86\Debug\Helper.pdb

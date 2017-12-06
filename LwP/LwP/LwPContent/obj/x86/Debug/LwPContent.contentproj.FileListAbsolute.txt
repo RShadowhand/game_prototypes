@@ -1,0 +1,7 @@
+c:\users\shadowhand\documents\visual studio 2010\Projects\LwP\LwP\LwPContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shadowhand\Documents\Visual Studio 2012\Projects\LwP\LwP\LwPContent\obj\x86\Debug\LwPContent.contentprojResolveAssemblyReference.cache
+F:\Users\Shadowhand\Documents\Visual Studio 2012\Projects\LwP\LwP\LwPContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\LwP\LwPContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shadowhand\Desktop\LwP\LwP\LwPContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ShadowSeven\Desktop\LwP\LwP\LwP\LwPContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ShadowSeven\Desktop\LwP\LwP\LwPContent\obj\x86\Debug\ResolveAssemblyReference.cache

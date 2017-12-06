@@ -1,0 +1,12 @@
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\FindCouple\bin\x86\Debug\FindCouple.dll
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\FindCouple\bin\x86\Debug\FindCouple.pdb
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\FindCouple\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\FindCouple\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\FindCouple\obj\x86\Debug\FindCouple.dll
+F:\Users\Shadowhand\Dropbox\Learning while Playing\LwP\FindCouple\obj\x86\Debug\FindCouple.pdb
+C:\Users\Shadowhand\Desktop\LwP\FindCouple\bin\x86\Debug\FindCouple.dll
+C:\Users\Shadowhand\Desktop\LwP\FindCouple\bin\x86\Debug\FindCouple.pdb
+C:\Users\Shadowhand\Desktop\LwP\FindCouple\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shadowhand\Desktop\LwP\FindCouple\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Shadowhand\Desktop\LwP\FindCouple\obj\x86\Debug\FindCouple.dll
+C:\Users\Shadowhand\Desktop\LwP\FindCouple\obj\x86\Debug\FindCouple.pdb

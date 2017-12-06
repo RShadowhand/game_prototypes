@@ -1,0 +1,16 @@
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Colors\bin\x86\Debug\Colors.dll
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Colors\bin\x86\Debug\Colors.pdb
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Colors\bin\x86\Debug\Helper.dll
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Colors\bin\x86\Debug\Helper.pdb
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Colors\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Colors\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Colors\obj\x86\Debug\Colors.dll
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Colors\obj\x86\Debug\Colors.pdb
+C:\Users\ShadowSeven\Desktop\LwP\Colors\bin\x86\Debug\Colors.dll
+C:\Users\ShadowSeven\Desktop\LwP\Colors\bin\x86\Debug\Colors.pdb
+C:\Users\ShadowSeven\Desktop\LwP\Colors\bin\x86\Debug\Helper.dll
+C:\Users\ShadowSeven\Desktop\LwP\Colors\bin\x86\Debug\Helper.pdb
+C:\Users\ShadowSeven\Desktop\LwP\Colors\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ShadowSeven\Desktop\LwP\Colors\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ShadowSeven\Desktop\LwP\Colors\obj\x86\Debug\Colors.dll
+C:\Users\ShadowSeven\Desktop\LwP\Colors\obj\x86\Debug\Colors.pdb

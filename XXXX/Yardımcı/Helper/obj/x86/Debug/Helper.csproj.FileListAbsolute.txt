@@ -1,0 +1,6 @@
+C:\Users\Shadowhand\Desktop\LwP\Helper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shadowhand\Desktop\LwP\Helper\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Shadowhand\Desktop\LwP\Helper\bin\x86\Debug\Helper.dll
+C:\Users\Shadowhand\Desktop\LwP\Helper\bin\x86\Debug\Helper.pdb
+C:\Users\Shadowhand\Desktop\LwP\Helper\obj\x86\Debug\Helper.dll
+C:\Users\Shadowhand\Desktop\LwP\Helper\obj\x86\Debug\Helper.pdb

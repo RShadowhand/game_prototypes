@@ -1,0 +1,16 @@
+C:\Users\Shadowhand\Desktop\LwP\Recycle\bin\x86\Debug\Recycle.dll
+C:\Users\Shadowhand\Desktop\LwP\Recycle\bin\x86\Debug\Recycle.pdb
+C:\Users\Shadowhand\Desktop\LwP\Recycle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shadowhand\Desktop\LwP\Recycle\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Shadowhand\Desktop\LwP\Recycle\obj\x86\Debug\Recycle.dll
+C:\Users\Shadowhand\Desktop\LwP\Recycle\obj\x86\Debug\Recycle.pdb
+C:\Users\Shadowhand\Desktop\LwP\Recycle\bin\x86\Debug\Helper.dll
+C:\Users\Shadowhand\Desktop\LwP\Recycle\bin\x86\Debug\Helper.pdb
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Recycle\bin\x86\Debug\Recycle.dll
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Recycle\bin\x86\Debug\Recycle.pdb
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Recycle\bin\x86\Debug\Helper.dll
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Recycle\bin\x86\Debug\Helper.pdb
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Recycle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Recycle\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Recycle\obj\x86\Debug\Recycle.dll
+C:\Users\ShadowSeven\Desktop\LwP\LwP\Recycle\obj\x86\Debug\Recycle.pdb

@@ -1,0 +1,16 @@
+c:\users\shadowhand\documents\visual studio 2012\Projects\Auras and Players\Auras and Players\bin\Debug\Auras and Players.exe
+c:\users\shadowhand\documents\visual studio 2012\Projects\Auras and Players\Auras and Players\bin\Debug\Auras and Players.pdb
+c:\users\shadowhand\documents\visual studio 2012\Projects\Auras and Players\Auras and Players\obj\Debug\Auras and Players.csprojResolveAssemblyReference.cache
+c:\users\shadowhand\documents\visual studio 2012\Projects\Auras and Players\Auras and Players\obj\Debug\Auras_and_Players.Form1.resources
+c:\users\shadowhand\documents\visual studio 2012\Projects\Auras and Players\Auras and Players\obj\Debug\Auras_and_Players.Properties.Resources.resources
+c:\users\shadowhand\documents\visual studio 2012\Projects\Auras and Players\Auras and Players\obj\Debug\Auras and Players.csproj.GenerateResource.Cache
+c:\users\shadowhand\documents\visual studio 2012\Projects\Auras and Players\Auras and Players\obj\Debug\Auras and Players.exe
+c:\users\shadowhand\documents\visual studio 2012\Projects\Auras and Players\Auras and Players\obj\Debug\Auras and Players.pdb
+Z:\Dropbox\XXXX\Yardımcı\Auras and Players\Auras and Players\obj\Debug\Auras and Players.exe
+Z:\Dropbox\XXXX\Yardımcı\Auras and Players\Auras and Players\obj\Debug\Auras and Players.pdb
+Z:\Dropbox\XXXX\Yardımcı\Auras and Players\Auras and Players\bin\Debug\Auras and Players.exe
+Z:\Dropbox\XXXX\Yardımcı\Auras and Players\Auras and Players\bin\Debug\Auras and Players.pdb
+Z:\Dropbox\XXXX\Yardımcı\Auras and Players\Auras and Players\obj\Debug\Auras and Players.csprojResolveAssemblyReference.cache
+Z:\Dropbox\XXXX\Yardımcı\Auras and Players\Auras and Players\obj\Debug\Auras_and_Players.Form1.resources
+Z:\Dropbox\XXXX\Yardımcı\Auras and Players\Auras and Players\obj\Debug\Auras_and_Players.Properties.Resources.resources
+Z:\Dropbox\XXXX\Yardımcı\Auras and Players\Auras and Players\obj\Debug\Auras and Players.csproj.GenerateResource.Cache

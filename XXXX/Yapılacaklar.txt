@@ -1,0 +1,27 @@
+*Bosslara kod
+*2-3 yeni creep
+*Background
+*Patlama efektleri (max. 3 frame)
+*Menü tasarýmý
+ Logo
+ Single Player
+ Party Mode
+ Highscore
+ Credits
+ Quit game
+ Pause
+ Animasyonlu giriþ ekraný
+*Görsellerin yüksek çözünürlüklü versiyonlarý
+*Menü için mock-up
+*Silahlar; tekli, ikili, "s"
+*Upgradeler; 1up, kalkan (10sn/3hit), ftl
+*Creep ve boss patternleri
+*Ftl background'ý
+*Boss için gizli çaðýrma yöntemi
+*Combo counter (her phase için ayrý)
+*Ateþ eden creep
+*Creeplerin Hp'si farklý
+*Legal iþler
+*"S" silahý; basýlý tutunca desenin yarýsý gelir
+*Ses ve müzik
+*Icon
